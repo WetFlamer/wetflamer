@@ -23,5 +23,9 @@
 ![materialUI](https://img.shields.io/badge/-Material_Ui-blue?style=for-the-badge&logo=material_ui&logoColor=white)
 
 ## Связаться со мной
-![telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/wetflame)
-![vk(https://vk.com/fittiad)](https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk)
+<a href="https://t.me/wetflame">
+    <img alt="Khamid" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://vk.com/fittiad">
+    <img alt="Khamid" src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk" />
+  </a>
