@@ -1,3 +1,4 @@
+
 ## Приветствую!👋
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
 <img src="https://media.giphy.com/media/5BHhTyCVBtq7YLJWQg/giphy.gif" width="100%"/>
@@ -42,6 +43,6 @@
   ## Проекты
   <a href="https://imgbb.com/"><img width='50' src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0">MATRIX</a>
  
-<audio controls autoplay>
+<audio autoplay>
   <source src="./assets/music/1.mp3" type="audio/mpeg">
 </audio>
