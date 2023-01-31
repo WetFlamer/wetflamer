@@ -31,5 +31,6 @@
   </a>
   
   ## Проекты
-  <a href="https://imgbb.com/"><img width='50' src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0"></a>
+  ![matrix](https://img.shields.io/badge/-Material_Ui-blue?style=for-the-badge&logo=https://i.ibb.co/pfT7t6k/logo.png&logoColor=white)
+
  
