@@ -1,6 +1,9 @@
-## Hello, World!
+## Приветствую!👋
 
-## Languages and Tools
+
+## Я Frontend-разработчик 🔵 
+
+## Языки и инструменты которые я использую:
 ![React](https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=green)
@@ -21,6 +24,9 @@
 ![mongoose](https://img.shields.io/badge/mongoose-✔-green?style=for-the-badge&logo=mongoose)
 ![eslint](https://img.shields.io/badge/eslint-blue?style=for-the-badge&logo=eslint)
 ![materialUI](https://img.shields.io/badge/-Material_Ui-blue?style=for-the-badge&logo=material_ui&logoColor=white)
+
+## Хочу изучить/изучаю
+![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=for-the-badge&logo=TypeScript&logoColor=white)
 
 ## Связаться со мной
 <a target="_self" href="https://t.me/wetflame">
