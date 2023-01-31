@@ -29,8 +29,7 @@
   <a href="https://vk.com/fittiad">
     <img alt="Khamid" src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk" />
   </a>
-  
   ## Проекты
   <a href='#'>
-  <img alt='Matrix' src='https://ibb.co/y6C9wmx'/>
+  <img alt='Matrix' src='[https://ibb.co/y6C9wmx](https://i.ibb.co/pfT7t6k/logo.png)'/>
   </a>
