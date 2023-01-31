@@ -23,7 +23,7 @@
 ![materialUI](https://img.shields.io/badge/-Material_Ui-blue?style=for-the-badge&logo=material_ui&logoColor=white)
 
 ## Связаться со мной
-<a href="https://t.me/wetflame">
+<a target="_blank" href="https://t.me/wetflame">
     <img alt="Khamid" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://vk.com/fittiad">
