@@ -30,7 +30,4 @@
     <img alt="Khamid" src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk" />
   </a>
   
-  ## Проекты
-  <a href='#'>
-  <img alt='Matrix' src='https://i.yapx.ru/VakR3.png'/>
-  </a>
+ 
