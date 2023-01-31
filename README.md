@@ -29,5 +29,5 @@
   <a href="https://vk.com/fittiad">
     <img alt="Khamid" src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk" />
   </a>
-  
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0"></a>
  
