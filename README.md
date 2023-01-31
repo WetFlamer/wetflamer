@@ -32,5 +32,5 @@
   
   ## Проекты
   <a href="https://imgbb.com/"><img width='50' src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0">MATRIX</a>
-<a target="_blank">...</a>
+<a target="_blank" href="/">...</a>
  
