@@ -29,6 +29,9 @@
   <a href="https://vk.com/fittiad">
     <img alt="Khamid" src="https://img.shields.io/badge/-VK-blue?style=for-the-badge&logo=vk" />
   </a>
+  <a href="https://discord.com/users/542387127061839872/">
+    <img alt="Khamid" src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord" />
+  </a>
   
   ## Проекты
   <a href="https://imgbb.com/"><img width='50' src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0">MATRIX</a>
