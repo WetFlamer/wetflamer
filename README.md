@@ -31,5 +31,5 @@
   </a>
   
   ## Проекты
-  <a href="https://imgbb.com/"><img width='200' src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0"></a>
+  <a href="https://imgbb.com/"><img width='100' src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0"></a>
  
