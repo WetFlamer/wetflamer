@@ -1,6 +1,6 @@
 ## Приветствую!👋
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
-<img style="display: flex; align-items:center; " src="https://i.gifer.com/Be.gif" width="300" />
+<iframe src="https://gifer.com/embed/Be" width=480 height=270.000 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>
 </div>
 
 ## Я Frontend-разработчик 🔵 
