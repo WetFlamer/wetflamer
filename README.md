@@ -32,5 +32,5 @@
   
   ## Проекты
   <a href='#'>
-  <img alt='Matrix' src='[https://ibb.co/y6C9wmx](https://i.ibb.co/pfT7t6k/logo.png)'/>
+  <img alt='Matrix' src='https://yapx.ru/60d2578d-d162-4ccf-854b-5a6b1adfc226'/>
   </a>
