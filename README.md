@@ -1,6 +1,6 @@
 ## Приветствую!👋
 <div align="center" style="display: flex; justify-content: center; text-align: center ; align-items:center;  ">
-<img src="https://i.gifer.com/2mtE.gif"/>
+<img src="https://media.giphy.com/media/5BHhTyCVBtq7YLJWQg/giphy.gif"/>
 </div>
 
 ## Я Frontend-разработчик 🔵 
