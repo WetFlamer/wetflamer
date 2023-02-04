@@ -40,6 +40,11 @@
   </a>
     <a target="_blank" href="https://discord.com/users/542387127061839872/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" alt="Discord"/></a>
   
-  ## Проекты
-  <a href="https://imgbb.com/"><img width='50' src="https://i.ibb.co/pfT7t6k/logo.png" alt="logo" border="0">MATRIX</a>
+  ## Мои проекты
+<a href="https://github.com/WetFlamer/Configure__PC">
+<img src="./assets/matrix.PNG" width="150px" height="50px" target="_blank"/>
+</a>
+<a href="https://github.com/WetFlamer/GROZNY_GYM" target="_blank">
+<img src="./assets/gym.PNG" width="150px" height="50px" />
+</a>
  
