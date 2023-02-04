@@ -42,9 +42,9 @@
   
   ## Мои проекты
 <a href="https://github.com/WetFlamer/Configure__PC">
-<img src="./assets/matrix.PNG" width="150px" height="50px" target="_blank"/>
+<img src="./matrix.png" width="150px" height="50px" target="_blank"/>
 </a>
 <a href="https://github.com/WetFlamer/GROZNY_GYM" target="_blank">
-<img src="./assets/gym.PNG" width="150px" height="50px" />
+<img src="./gym.png" width="150px" height="50px" />
 </a>
  
