@@ -47,4 +47,6 @@
 <a href="https://github.com/WetFlamer/GROZNY_GYM" target="_blank">
 <img src="./gym.png" width="150px" height="50px" />
 </a>
- 
+<a href="https://youtu.be/IR4wAIPH3PE" target="_blank">
+<img src="./victoria.png" width="150px" height="50px" />
+</a>
