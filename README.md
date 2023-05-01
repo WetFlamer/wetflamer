@@ -48,5 +48,5 @@
 <img src="./gym.png" width="150px" height="50px" />
 </a>
 <a href="https://youtu.be/IR4wAIPH3PE" target="_blank">
-<img src="./vic.logo.png" width="200px" height="50px" />
+<img src="./vic.logo.png" width="100px" height="50px" />
 </a>
